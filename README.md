@@ -21,4 +21,4 @@ Below is a table with the average execution times:
 
 ## Tests
 Below is a picture with the test coverage of the solution:
-![image](https://github.com/Rysichek/teamwork-test-task/assets/49566270/a7a6ec40-c071-4067-aff7-79365c663d25)
+<img width="902" alt="Screenshot 2023-11-20 at 21 52 29" src="https://github.com/Rysichek/teamwork-test-task/assets/49566270/e4ba8cf5-6760-4892-b4ee-5f520bdcc3dd">
